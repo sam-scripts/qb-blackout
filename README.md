@@ -1,6 +1,6 @@
 # QB-Core Blackout Script
 
-Configurable simple blackout script for QB-Core
+Configurable simple blackout script for QB-Core, first ever resource I have made for five m.
 
 ## Dependencies
 
