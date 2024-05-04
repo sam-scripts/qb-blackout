@@ -2,6 +2,7 @@
 
 Configurable simple blackout script for QB-Core, first ever resource I have made for five m.
 
+If you have an inqueries please message me on discord :) sam7870
 ## Dependencies
 
 [Polyzone](https://github.com/mkafrin/PolyZone)
